@@ -23,7 +23,6 @@ Weather App is a minimalist weather dashboard built with React, which allows use
 
 ## ✨ Features
 
-`diff
 + 🔍 Search by city name
 + 🌡️ Temperature in Celsius
 + ☁️ Weather condition, wind, humidity, pressure
