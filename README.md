@@ -40,8 +40,7 @@ Weather App is a minimalist weather dashboard built with React, which allows use
 
 To run the project locally:
 
-`bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Shayan1384gh/WeatherApp.git
 cd weather-app
 npm install
 npm start
